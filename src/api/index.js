@@ -1,4 +1,4 @@
-// api/index.js
+
 var socket = new WebSocket("ws://sysdesign-backend.herokuapp.com/ws");
 
 let connect = () => {
