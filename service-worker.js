@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sysdesign-ui/precache-manifest.6d9ae86c693c1fbc3dc7a5f19b05ea01.js"
+  "/sysdesign-ui/precache-manifest.c100533e9200a7ec811721a9dd5b119c.js"
 );
 
 self.addEventListener('message', (event) => {
