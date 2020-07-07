@@ -33,12 +33,12 @@ import { connect, sendMsg } from "./api";
 class App extends Component {
   constructor(props) {
     super(props);
-    connect();
+    // connect();
   }
 
   send() {
     console.log("hello");
-    sendMsg("hello");
+    // sendMsg("hello");
   }
 
   render() {
