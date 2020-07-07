@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be8770f1838341764d195a486e15b5cf",
+    "revision": "9cda36a84c9f7dbd3380fce5cfbc56e6",
     "url": "/sysdesign-ui/index.html"
   },
   {
-    "revision": "e1ef1e7c6a7649015184",
+    "revision": "db20a7a22f2a1312b30d",
     "url": "/sysdesign-ui/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sysdesign-ui/static/js/2.1a1052e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1ef1e7c6a7649015184",
-    "url": "/sysdesign-ui/static/js/main.769ea35b.chunk.js"
+    "revision": "db20a7a22f2a1312b30d",
+    "url": "/sysdesign-ui/static/js/main.2aa986b1.chunk.js"
   },
   {
     "revision": "b90cadaf8c38b815b14a",
